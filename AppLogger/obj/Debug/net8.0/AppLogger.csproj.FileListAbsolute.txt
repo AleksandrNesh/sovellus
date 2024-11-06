@@ -1,0 +1,11 @@
+D:\NET\temp\tehtava4\AppLogger\bin\Debug\net8.0\AppLogger.deps.json
+D:\NET\temp\tehtava4\AppLogger\bin\Debug\net8.0\AppLogger.dll
+D:\NET\temp\tehtava4\AppLogger\bin\Debug\net8.0\AppLogger.pdb
+D:\NET\temp\tehtava4\AppLogger\obj\Debug\net8.0\AppLogger.GeneratedMSBuildEditorConfig.editorconfig
+D:\NET\temp\tehtava4\AppLogger\obj\Debug\net8.0\AppLogger.AssemblyInfoInputs.cache
+D:\NET\temp\tehtava4\AppLogger\obj\Debug\net8.0\AppLogger.AssemblyInfo.cs
+D:\NET\temp\tehtava4\AppLogger\obj\Debug\net8.0\AppLogger.csproj.CoreCompileInputs.cache
+D:\NET\temp\tehtava4\AppLogger\obj\Debug\net8.0\AppLogger.dll
+D:\NET\temp\tehtava4\AppLogger\obj\Debug\net8.0\refint\AppLogger.dll
+D:\NET\temp\tehtava4\AppLogger\obj\Debug\net8.0\AppLogger.pdb
+D:\NET\temp\tehtava4\AppLogger\obj\Debug\net8.0\ref\AppLogger.dll
